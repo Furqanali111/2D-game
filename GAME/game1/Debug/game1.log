@@ -1,0 +1,4 @@
+﻿  game1.cpp
+E:\FURQAN\SEMSTER 02\Subject\OOP  LAB\Project\game1\game1\game1.cpp(48,73): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\FURQAN\SEMSTER 02\Subject\OOP  LAB\Project\game1\game1\game1.cpp(57,39): warning C4305: 'argument': truncation from 'double' to 'float'
+  game1.vcxproj -> E:\FURQAN\SEMSTER 02\Subject\OOP  LAB\Project\game1\Debug\game1.exe
